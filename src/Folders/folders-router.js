@@ -25,22 +25,19 @@ foldersRouter
   })
 
   .post(bodyParser, (req, res, next) => {
+    logger.info(req.body)
     const { folder_id, name } = req.body
     const newFolder = { folder_id, name }
-
-    for (const field of ['name']) {
-      if (!newFolder[field]) {
-        logger.error(`${field} is required`)
-        return res.status(400).send({
-          error: { message: `'${field}' is required` }
-        })
-      }
+    for (const [key, value] of Object.entries(newFolder)) {
+      if(value==null)
+                return res.status(400).json({
+                    error: {
+                        message: `Missing ${key} in request body`
+                    }
+                })
     }
-
     //const error = getBookmarkValidationError(newBookmark)
-
     //if (error) return res.status(400).send(error)
-
     FoldersService.insertFolder(
       req.app.get('db'),
       newFolder
@@ -50,7 +47,7 @@ foldersRouter
         res
           .status(201)
           .location(path.posix.join(req.originalUrl, `${folder.folder_id}`))
-          .json(serializeFolder(folder))
+          //.json(serializeFolder(folder))
       })
       .catch(next)
   })

@@ -338,3 +338,358 @@
 {"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
 {"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
 {"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"no pg_hba.conf entry for host \"174.52.126.93\", user \"zkxmhmdugynnpq\", database \"da18echdqtqcra\", SSL off","level":"error"}
+{"message":"no pg_hba.conf entry for host \"174.52.126.93\", user \"zkxmhmdugynnpq\", database \"da18echdqtqcra\", SSL off","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"no pg_hba.conf entry for host \"174.52.126.93\", user \"zkxmhmdugynnpq\", database \"da18echdqtqcra\", SSL off","level":"error"}
+{"message":"no pg_hba.conf entry for host \"174.52.126.93\", user \"zkxmhmdugynnpq\", database \"da18echdqtqcra\", SSL off","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"no pg_hba.conf entry for host \"174.52.126.93\", user \"zkxmhmdugynnpq\", database \"da18echdqtqcra\", SSL off","level":"error"}
+{"message":"no pg_hba.conf entry for host \"174.52.126.93\", user \"zkxmhmdugynnpq\", database \"da18echdqtqcra\", SSL off","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"no pg_hba.conf entry for host \"174.52.126.93\", user \"zkxmhmdugynnpq\", database \"da18echdqtqcra\", SSL off","level":"error"}
+{"message":"no pg_hba.conf entry for host \"174.52.126.93\", user \"zkxmhmdugynnpq\", database \"da18echdqtqcra\", SSL off","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"no pg_hba.conf entry for host \"174.52.126.93\", user \"zkxmhmdugynnpq\", database \"da18echdqtqcra\", SSL off","level":"error"}
+{"message":"no pg_hba.conf entry for host \"174.52.126.93\", user \"zkxmhmdugynnpq\", database \"da18echdqtqcra\", SSL off","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"no pg_hba.conf entry for host \"174.52.126.93\", user \"zkxmhmdugynnpq\", database \"da18echdqtqcra\", SSL off","level":"error"}
+{"message":"no pg_hba.conf entry for host \"174.52.126.93\", user \"zkxmhmdugynnpq\", database \"da18echdqtqcra\", SSL off","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/ Bearer \"910237e9-95fd-4ecf-b17b-4af6605a1f01\"","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/ Bearer \"910237e9-95fd-4ecf-b17b-4af6605a1f01\"","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/ Bearer \"910237e9-95fd-4ecf-b17b-4af6605a1f01\"","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/ Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"no pg_hba.conf entry for host \"174.52.126.93\", user \"zkxmhmdugynnpq\", database \"da18echdqtqcrapostgres://zkxmhmdugynnpq:1fe32ddc866e7df0cff944a\", SSL off","level":"error"}
+{"message":"Unauthorized request to path: //zkxmhmdugynnpq:1fe32ddc866e7df0cff944a/ undefined","level":"error"}
+{"message":"Unauthorized request to path: //zkxmhmdugynnpq:1fe32ddc866e7df0cff944a/ Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/ Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"no pg_hba.conf entry for host \"174.52.126.93\", user \"zkxmhmdugynnpq\", database \"da18echdqtqcrapostgres://zkxmhmdugynnpq:1fe32ddc866e7df0cff944a\", SSL off","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/ Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"no pg_hba.conf entry for host \"174.52.126.93\", user \"zkxmhmdugynnpq\", database \"da18echdqtqcrapostgres://zkxmhmdugynnpq:1fe32ddc866e7df0cff944a\", SSL off","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/ Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"no pg_hba.conf entry for host \"174.52.126.93\", user \"zkxmhmdugynnpq\", database \"da18echdqtqcrapostgres://zkxmhmdugynnpq:1fe32ddc866e7df0cff944a\", SSL off","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/ undefined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/ Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"no pg_hba.conf entry for host \"174.52.126.93\", user \"zkxmhmdugynnpq\", database \"da18echdqtqcrapostgres://zkxmhmdugynnpq:1fe32ddc866e7df0cff944a\", SSL off","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/ Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"no pg_hba.conf entry for host \"174.52.126.93\", user \"zkxmhmdugynnpq\", database \"da18echdqtqcrapostgres://zkxmhmdugynnpq:1fe32ddc866e7df0cff944a\", SSL off","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/ Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"no pg_hba.conf entry for host \"174.52.126.93\", user \"zkxmhmdugynnpq\", database \"da18echdqtqcrapostgres://zkxmhmdugynnpq:1fe32ddc866e7df0cff944a\", SSL off","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/ Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders undefined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders undefined","level":"error"}
+{"message":"Unauthorized request to path: /api/notes undefined","level":"error"}
+{"message":"Unauthorized request to path: /api/notes undefined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer undefined","level":"error"}
+{"message":"Unauthorized request to path: /api/notes undefined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer undefined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer undefined","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer undefined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer undefined","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer undefined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer [object Object]","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer [object Object]","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer [object Object]","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer [object Object]","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"node_id is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"node_id is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"node_id is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"node_id is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"node_id is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"node_id is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"serializeComment is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"serializeComment is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"insert into \"folders\" (\"folder_id\", \"name\") values (DEFAULT, $1) returning * - duplicate key value violates unique constraint \"folders_pkey\"","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"[object Object] is required","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"newNote is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"id,652 is required","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"id,358 is required","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"id,722 is required","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"id,736","level":"error"}
+{"message":"id,736 is required","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"insert into \"folders\" (\"id\", \"title\") values ($1, $2) returning * - column \"id\" of relation \"folders\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"insert into \"folders\" (\"id\", \"title\") values ($1, $2) returning * - column \"id\" of relation \"folders\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"insert into \"folders\" (\"id\", \"title\") values ($1, $2) - column \"id\" of relation \"folders\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"level":"error","message":"id"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"level":"error","message":"id"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"level":"error","message":"id"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"key is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"level":"info","message":"key"}
+{"level":"error","message":"id"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"level":"info","message":"key"}
+{"level":"error","message":"id"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"level":"info","message":"key"}
+{"level":"error","message":"id"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"level":"info","message":"key"}
+{"level":"error","message":"id"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"insert into \"folders\" (\"id\", \"title\") values (DEFAULT, DEFAULT) - column \"id\" of relation \"folders\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"insert into \"folders\" (\"id\", \"title\") values (DEFAULT, DEFAULT) - column \"id\" of relation \"folders\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"insert into \"folders\" (\"id\", \"title\") values (DEFAULT, DEFAULT) - column \"id\" of relation \"folders\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"insert into \"folders\" (\"id\", \"title\") values (DEFAULT, DEFAULT) - column \"id\" of relation \"folders\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"insert into \"folders\" (\"id\", \"title\") values (DEFAULT, DEFAULT) - column \"id\" of relation \"folders\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"insert into \"folders\" (\"id\", \"title\") values (DEFAULT, DEFAULT) - column \"id\" of relation \"folders\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"select * - SELECT * with no tables specified is not valid","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"insert into \"folders\" (\"id\", \"title\") values ($1, $2) returning * - column \"id\" of relation \"folders\" does not exist","level":"error"}
+{"message":"insert into \"folders\" (\"id\", \"title\") values ($1, $2) returning * - column \"id\" of relation \"folders\" does not exist","level":"error"}
+{"message":{"id":127,"title":"jeremy"},"level":"info"}
+{"message":"insert into \"folders\" (\"id\", \"title\") values ($1, $2) returning * - column \"id\" of relation \"folders\" does not exist","level":"error"}
+{"message":{"id":57,"title":"jeremy"},"level":"info"}
+{"message":"insert into \"folders\" (\"id\", \"title\") values ($1, $2) - column \"id\" of relation \"folders\" does not exist","level":"error"}
+{"message":{"id":287,"title":"jeremy"},"level":"info"}
+{"message":"insert into \"folders\" (\"id\", \"title\") values ($1, $2) returning * - column \"id\" of relation \"folders\" does not exist","level":"error"}
+{"message":{"folder_id":215,"name":"heyyo"},"level":"info"}
+{"message":{},"level":"info"}
+{"message":{},"level":"info"}
+{"message":{"folder_id":685,"name":"jeremy"},"level":"info"}
+{"message":"Folder with id 685 created.","level":"info"}
+{"message":"role \"Jaxon Potter\" does not exist","level":"error"}
+{"message":"role \"Jaxon Potter\" does not exist","level":"error"}
+{"message":"role \"Jaxon Potter\" does not exist","level":"error"}
+{"message":"role \"Jaxon Potter\" does not exist","level":"error"}
+{"message":"role \"Jaxon Potter\" does not exist","level":"error"}
+{"message":"read ECONNRESET","level":"error"}
+{"message":"role \"Jaxon Potter\" does not exist","level":"error"}
+{"message":"read ECONNRESET","level":"error"}
+{"message":"role \"Jaxon Potter\" does not exist","level":"error"}
+{"message":"read ECONNRESET","level":"error"}
+{"message":{},"level":"info"}
+{"message":"role \"Jaxon Potter\" does not exist","level":"error"}
+{"message":"role \"Jaxon Potter\" does not exist","level":"error"}
+{"message":"role \"Jaxon Potter\" does not exist","level":"error"}
