@@ -333,3 +333,8 @@
 {"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
 {"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
 {"message":"Unauthorized request to path: /api/notes/8 Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/4 Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
