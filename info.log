@@ -1,0 +1,335 @@
+{"message":"Unauthorized request to path: /api/","level":"error"}
+{"message":"Unauthorized request to path: /api/","level":"error"}
+{"message":"Unauthorized request to path: /api/","level":"error"}
+{"message":"Unauthorized request to path: /api/","level":"error"}
+{"message":"Unauthorized request to path: /api/ Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/ Bearer cf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/ Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/ Bearer \"910237e9-95fd-4ecf-b17b-4af6605a1f01\"","level":"error"}
+{"message":"Unauthorized request to path: /api/ Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/ Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"message":"Unauthorized request to path: /api/ Bearer 910237e9-95fd-4ecf-b17b-4af6605a1f01","level":"error"}
+{"level":"error"}
+{"message":"Unauthorized request to path: /api/ Bearer dummy-api-token","level":"error"}
+{"level":"error"}
+{"message":"FoldersService.getAllFolders is not a function","level":"error"}
+{"message":"Unauthorized request to path: /api/ Bearer dummy-api-token","level":"error"}
+{"message":"FoldersService.getAllFolders is not a function","level":"error"}
+{"message":"Unauthorized request to path: /api/ Bearer dummy-api-token","level":"error"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"Unauthorized request to path: /api/ Bearer dummy-api-token","level":"error"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"Unauthorized request to path: /api/ Bearer dummy-api-token","level":"error"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"Unauthorized request to path: /api/ Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/ Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/ Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/ Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders/ Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /folders undefined","level":"error"}
+{"message":"Unauthorized request to path: /folders undefined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders undefined","level":"error"}
+{"message":"Unauthorized request to path: /api/notes undefined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders undefined","level":"error"}
+{"message":"Unauthorized request to path: /api/notes dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"name is required","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"FoldersService.insertFolder is not a function","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"insert into \"folders\" (\"folder_id\", \"title\") values ($1, $2) returning * - column \"title\" of relation \"folders\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"insert into \"folders\" (\"folder_id\", \"title\") values ($1, $2) returning * - column \"title\" of relation \"folders\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Folder with id 7 created.","level":"info"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /folders undefined","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"insert into \"folders\" (\"folder_id\", \"name\") values ($1, $2) returning * - invalid input syntax for type integer: \"lz3lo4uv7\"","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"insert into \"folders\" (\"folder_id\", \"name\") values ($1, $2) returning * - invalid input syntax for type integer: \"7kqmlsyio\"","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"insert into \"folders\" (\"folder_id\", \"name\") values ($1, $2) returning * - invalid input syntax for type integer: \"1njn1gnv5\"","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Folder with id 347218310 created.","level":"info"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Folder with id 10 created.","level":"info"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Folder with id 607804798 created.","level":"info"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /notes/api/Birds Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /notes/api/4 Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/1 Bearer dummy-api-token","level":"error"}
+{"message":"NotesService.getbyId is not a function","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/1 Bearer dummy-api-token","level":"error"}
+{"message":"NotesService.getbyId is not a function","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/1 Bearer dummy-api-token","level":"error"}
+{"message":"delete from \"notes\" where \"id\" = $1 - column \"id\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /notes/api/4 Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /notes/api/4 Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /notes/api/1 Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /notes/api/2 Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /notes/api/2 Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/1 Bearer dummy-api-token","level":"error"}
+{"message":"delete from \"notes\" where \"id\" = $1 - column \"id\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2 Bearer dummy-api-token","level":"error"}
+{"message":"delete from \"notes\" where \"id\" = $1 - column \"id\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2 Bearer dummy-api-token","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"notes\" where \"id\" = ?","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2 Bearer dummy-api-token","level":"error"}
+{"message":"Cannot read property 'note_id' of undefined","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2 Bearer dummy-api-token","level":"error"}
+{"message":"delete from \"notes\" where \"id\" = $1 - column \"id\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2 Bearer dummy-api-token","level":"error"}
+{"message":"The operator \"undefined\" is not permitted","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2 Bearer dummy-api-token","level":"error"}
+{"message":"delete from \"notes\" where \"id\" = $1 - column \"id\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2 Bearer dummy-api-token","level":"error"}
+{"message":"delete from \"notes\" where \"2\" = $1 - column \"2\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2 Bearer dummy-api-token","level":"error"}
+{"message":"delete from \"notes\" where \"id\" = $1 - column \"id\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2 Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /notes/api/3 Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /notes/api/3 Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /notes/api/3 Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/3 Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /notes/api/7 Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/7 Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/9 Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/13 Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/13 Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/1 Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/6 Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/folders Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes Bearer dummy-api-token","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/8 Bearer dummy-api-token","level":"error"}
